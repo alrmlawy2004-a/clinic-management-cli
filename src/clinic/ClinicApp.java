@@ -1,4 +1,4 @@
-package com.mycompany.clinicapp;
+package clinic;
 
 import java.io.*;
 import java.util.*;
